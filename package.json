@@ -18,7 +18,7 @@
   "author": "Kevin Neff <kvnneff@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "0.8.7",
+    "bcrypt": "^3.0.5",
     "passwordless-tokenstore": "0.0.10",
     "rethinkdb": "2.3.3"
   },
